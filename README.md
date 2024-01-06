@@ -1,1 +1,1 @@
-Java Spring Security using JSON Web Token - Role-Based Access Control
+Java Spring Security using JSON Web Token - Role-Based Access Control.
